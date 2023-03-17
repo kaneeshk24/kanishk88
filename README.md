@@ -11,7 +11,7 @@
 
 - ⚡ Funny fact **ronaldo is better than messi (classic)**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://twitter.com/k21622410 </h3>
 <p align="left">
 </p>
 

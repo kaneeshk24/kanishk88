@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm kanishk gupta</h1>
 <h3 align="center">A passionate beginner learning new stuff</h3>
 
-- 🔭 I’m currently working on **visualization and widgets framework/libraries**
+- 🔭 I’m currently working on ** data visualization and it's widgets framework/libraries**
 
 - 🌱 I’m currently learning **D3 and frontend**
 

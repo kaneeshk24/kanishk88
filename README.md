@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm kanishk gupta</h1>
-<h3 align="center">A passionate beginner learning new stuff</h3>
+<h3 align="center">going stack to full stackf</h3>
 
 - 🔭 I’m currently working on ** data visualization and it's widgets framework/libraries**
 
